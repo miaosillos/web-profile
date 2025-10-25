@@ -1,0 +1,16 @@
+{
+  "skills": [
+    { "name": "HTML & CSS", "level": "90%" },
+    { "name": "JavaScript", "level": "80%" },
+    { "name": "Time Management", "level": "85%" },
+    { "name": "Figma & UI Design", "level": "75%" },
+    { "name": "Photoshop & Canva", "level": "70%" }
+  ],
+  "hobbies": [
+    "Part-time Work Experience",
+    "Freelance Projects",
+    "Journaling & Planning",
+    "Coffee Shop Study Sessions",
+    "DIY Organization & Productivity Tools"
+  ]
+}
